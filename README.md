@@ -1,3 +1,3 @@
 # WSL-VIReID
 HECCL_WSL-VIReID
-code will be available soon
+code and paper will be available soon
