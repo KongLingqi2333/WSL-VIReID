@@ -1,4 +1,4 @@
-# Official code of ICCV 2025 Paper "Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning"
+# Official code of ICCV 2025 Paper "[Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning](https://arxiv.org/abs/2507.12942)"
 ## Step 1 Datasets Preparation
 * [SYSU-MM01](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_RGB-Infrared_Cross-Modality_Person_ICCV_2017_paper.pdf)
 ```python
