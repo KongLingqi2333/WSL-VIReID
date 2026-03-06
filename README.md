@@ -22,13 +22,12 @@ sh regdb.sh
 
 ## Citation
 ```
-@misc{zhang2025weaklysupervisedvisibleinfraredperson,
-      title={Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning}, 
-      author={Yafei Zhang and Lingqi Kong and Huafeng Li and Jie Wen},
-      year={2025},
-      eprint={2507.12942},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.12942}, 
+@InProceedings{Zhang_2025_ICCV,
+    author    = {Zhang, Yafei and Kong, Lingqi and Li, Huafeng and Wen, Jie},
+    title     = {Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {12659-12669}
 }
 ```
